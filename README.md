@@ -30,7 +30,7 @@ Welcome to the **Pregnancy Assistance Platform** — a comprehensive solution de
 - **Machine Learning**: Python with OpenCV for yoga posture analysis
 - **ML Libraries**: Mediapipe, TensorFlow (if applicable)
 - **Authentication**: JSON Web Tokens (JWT)
-- **Deployment**: (Optional, add details if applicable)
+
 
 ## Installation
 
@@ -44,15 +44,14 @@ Make sure you have the following installed on your system:
 
 ### Clone the Repository
 
+cd frontend
+npm install
+npm run dev
 
-###  cd frontend
-### npm install
-### npm run dev
-
-###  cd models
-### install all the required libraries and modules using pip or pip3
-### python diet.py (it will connect with the api we used on another server )
-### python model.py (it will run the model on other server )
+cd models
+install all the required libraries and modules using pip or pip3 
+**python diet.py** (it will connect with the api we used on another server )
+**python model.py** (it will run the model on other server )
 
  
 
