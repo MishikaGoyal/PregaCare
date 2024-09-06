@@ -44,10 +44,12 @@ Make sure you have the following installed on your system:
 
 ### Clone the Repository
 
+## frontend code
 - cd frontend
 - npm install
 - npm run dev
 
+## python models
 - cd models
 - install all the modules prompted in the terminal while running these python files using pip or pip3
 - python diet.py
