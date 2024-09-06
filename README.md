@@ -44,14 +44,14 @@ Make sure you have the following installed on your system:
 
 ### Clone the Repository
 
-cd frontend
-npm install
-npm run dev
+- cd frontend
+- npm install
+- npm run dev
 
-cd models
-install all the required libraries and modules using pip or pip3 
-**python diet.py** (it will connect with the api we used on another server )
-**python model.py** (it will run the model on other server )
+- cd models
+- install all the modules prompted in the terminal while running these python files using pip or pip3
+- python diet.py
+- python pose.py
 
  
 
