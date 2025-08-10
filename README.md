@@ -2,6 +2,8 @@
 
 Welcome to the **Pregnancy Assistance Platform** — a comprehensive solution designed to support pregnant women throughout their journey. This platform offers tailored diet plans based on health reports, provides accurate trimester-based guidance, and leverages machine learning to help women perform yoga with real-time posture analysis using OpenCV.
 
+YouTube URL : https://youtu.be/ODYHB4t0cbc
+
 ## Table of Contents
 - [Features](#features)
 - [Tech Stack](#tech-stack)
